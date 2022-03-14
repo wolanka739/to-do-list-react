@@ -1,8 +1,18 @@
 # Task list
 
-Description
+## Description
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Used technologies:
+* HTML
+* CSS 
+* Grid
+* JavaScript
+* BEM
+* MediaQueries
+* React 
+* Create-React-App
 
 ## Available Scripts
 
