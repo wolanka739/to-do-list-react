@@ -7,6 +7,11 @@ https://wolanka739.github.io/to-do-list-react/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this aplication you can add daily tasks. You can mark which tasks are already done and delete them. You can hide completed tasks and you can complete all tasks in one click.
+
+## Animated instruction
+![Animated instruction](https://github.com/wolanka739/to-do-list-react/blob/main/public/Animation.gif?raw=true)
+
 ## Used technologies:
 * HTML
 * CSS 
